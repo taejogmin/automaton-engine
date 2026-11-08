@@ -38,7 +38,7 @@ These are the unmodified `bin/stockfish-19-lite-single.*` files from the npm pac
 |---|---|---|
 | 2026-11-08 | Stockfish.js 19.0.1 (Stockfish 19), lite single-threaded | Automaton (first version) |
 
-When the site moves to a new engine version, this repository is updated in the same release. Each version is tagged, for example `v19.0.1`.
+When the site moves to a new engine version, this repository is updated in the same release, and a new row is added above.
 
 ## License
 
